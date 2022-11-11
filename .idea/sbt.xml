@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/base/coursera/infra-services/sbt-launch-1.4.7.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home" />
+    <option name="maximumHeapSize" value="30000" />
+    <option name="vmParameters" value="-Xss128m -Xms2048m -Xmx30000m -XX:+UseCodeCacheFlushing -XX:+UseG1GC -Dprojects=payment" />
+  </component>
+</project>
